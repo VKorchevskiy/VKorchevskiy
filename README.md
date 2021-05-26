@@ -1,6 +1,7 @@
-### Привет всем, меня зовут Владимир 👋
+### Привет, меня зовут Владимир 👋
 
 ```javascript
+// Немного о себе
 const VKorchevskiy = {
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["Web dev", "App dev"],
@@ -25,7 +26,7 @@ const VKorchevskiy = {
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&hide=contribs&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img display="inline" height="180em" src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&hide=contribs&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKorchevskiy&theme=vision-friendly-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
