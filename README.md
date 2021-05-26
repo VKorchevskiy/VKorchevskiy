@@ -4,7 +4,6 @@
 ```javascript
 const VKorchevskiy = {
   code: ["Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web dev", "App dev"],
   technologies: {
     frontEnd: {
       js: ["React"],
