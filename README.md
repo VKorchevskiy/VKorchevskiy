@@ -14,7 +14,6 @@ const VKorchevskiy = {
     databases: ["Mongo"],
     misc: ["Visual Studio Code", "Git", "Figma"],
   },
-  architecture: ["Progressive web applications", "Single page applications"],
 };
 ```
 
@@ -27,7 +26,8 @@ const VKorchevskiy = {
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+	<img height="180em" 
+	     src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKorchevskiy&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
