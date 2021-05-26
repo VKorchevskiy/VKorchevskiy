@@ -25,17 +25,15 @@ const VKorchevskiy = {
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&hide=contribs&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
-	<img height="180em" 
-	     src="https://github-readme-stats.vercel.app/api?username=VKorchevskiy&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKorchevskiy&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKorchevskiy&theme=vision-friendly-dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>🔥 Github Streaks</b></summary>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKorchevskiy&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKorchevskiy&theme=vision-friendly-dark&hide_border=true" />
 </details>
 
 
