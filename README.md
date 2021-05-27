@@ -3,7 +3,7 @@
 
 ```javascript
 const VKorchevskiy = {
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript"],
   technologies: {
     frontEnd: {
       js: ["React"],
