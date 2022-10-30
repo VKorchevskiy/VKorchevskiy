@@ -9,7 +9,7 @@
 
 ```javascript
 const VKorchevskiy = {
-  code: ["Javascript"],
+  code: ["Javascript", "typescript"],
   technologies: {
     frontEnd: {
       js: ["React"],
@@ -17,8 +17,8 @@ const VKorchevskiy = {
     backEnd: {
       js: ["Node", "Express"],
     },
-    databases: ["Mongo"],
-    misc: ["Visual Studio Code", "Git", "Figma"],
+    databases: ["Mongo DB"],
+    misc: ["Visual Studio Code", "Git", "Figma", "webpack", "storybook", "loki", "jest"],
   },
 };
 ```
